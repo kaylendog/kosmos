@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = [
+	"./crates/*",
+	"./apps/kosmos-native/src-tauri"
+]
+
+[profile.dev.package."*"]
+opt-level = 3

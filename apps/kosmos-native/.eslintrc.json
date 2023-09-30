@@ -1,0 +1,9 @@
+{
+	"extends": "infernal/next",
+	"rules": {
+		"no-undef": "off",
+		"new-cap": "off",
+		"max-lines": "off",
+		"max-lines-per-function": "off"
+	}
+}

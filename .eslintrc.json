@@ -1,0 +1,7 @@
+{
+	"extends": "infernal",
+	"root": true,
+	"parserOptions": {
+		"project": ["./packages/**/tsconfig.json", "./apps/**/tsconfig.json"]
+	}
+}

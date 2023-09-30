@@ -1,0 +1,12 @@
+{
+	"name": "kosmos-renderer",
+	"version": "0.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "wasm-pack build"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
